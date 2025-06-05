@@ -2,13 +2,11 @@
     "users":{
         "1994595371":{
             "reason": "test",
-            "duration": -1,
-            "BanActive": false
+            "duration": -1
         },
         "550996845":{
             "reason": "loser",
-            "duration": -1,
-            "BanActive": true
+            "duration": -1
         }
     }
 }
