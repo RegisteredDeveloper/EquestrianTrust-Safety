@@ -3,7 +3,7 @@
         "1994595371":{
             "reason": "test",
             "duration": -1,
-            "BanActive": true
+            "BanActive": false
         },
         "550996845":{
             "reason": "loser",
