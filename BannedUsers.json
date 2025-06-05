@@ -1,11 +1,11 @@
 {
     "users":{
         "1994595371":{
-            "reason": "test"
+            "reason": "test",
             "duration": -1
         },
         "550996845":{
             "reason": "loser"
-        },
+        }
     }
 }
