@@ -8,7 +8,7 @@
         "3963266570":{
             "reason": "Test",
             "duration": -1,
-            "active": true
+            "active": false
         }
     }
 }
