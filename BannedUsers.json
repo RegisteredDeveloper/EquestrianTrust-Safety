@@ -1,14 +1,14 @@
 {
-    "users":{
+    "Users":{
         "1994595371":{
-            "reason": "test",
-            "duration": -1,
-            "active": false
+            "Reason": "test",
+            "Duration": -1,
+            "Active": false
         },
         "3963266570":{
-            "reason": "Test",
-            "duration": -1,
-            "active": false
+            "Reason": "Test",
+            "Duration": -1,
+            "Active": false
         }
     }
 }
